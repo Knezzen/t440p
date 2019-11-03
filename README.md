@@ -1,7 +1,8 @@
-![T440p Hackintosh](https://raw.githubusercontent.com/jloisel/t440p/master/t440p-hackintosh.jpg)
-
 ## Changelog
 =======
+### 1.5 (3rd November 2019)
+
+Initial fork from jloisel. Updated the SSDT for Ultra Dock support.
 
 ### 1.4 (22th August 2019)
 
