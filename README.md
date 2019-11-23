@@ -1,5 +1,11 @@
 ## Changelog
 =======
+### 1.6 (23rd November 2019)
+
+Added a better SSDT and config.plist with added support for Ultradock USB and
+removal of all unused USB ports on on the T440p and dock.
+Also added AirportBrcmFixup.kext to the WiFi folder.
+
 ### 1.5 (3rd November 2019)
 
 Initial fork from jloisel. Updated the SSDT for Ultra Dock support.
